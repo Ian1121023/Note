@@ -1,9 +1,9 @@
-title: MCU course
-tagline: ESP32 Lectures
+title: Note
+tagline: 
 
 author:
-  name: Richard Kuo
-  url: https://www.facebook.com/richard.kuo.168
+  name: Yian Chang
+  url: https://www.facebook.com/ian.zhang.16
 
 plugins:
   - jekyll-feed
