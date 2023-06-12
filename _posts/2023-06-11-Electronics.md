@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Electronics note
+title: Electronics 
 author: [Yian Chang]
 category: [note]
 tags: [jekyll, Electronics]
