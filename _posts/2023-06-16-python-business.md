@@ -1,0 +1,26 @@
+---
+layout: post
+title: git 
+author: [Yian Chang]
+category: [note]
+tags: [note,git]
+
+---
+
+# 目錄:<br>
+[**課程內容**](#課程內容)<br>
+[**git指令**](#指令)<br>
+
+---
+
+## 課程內容<br>
+[檔案上傳github方法](https://medium.com/@s110319022/github-%E5%85%A5%E9%96%80-%E4%BA%8C-%E4%BD%BF%E7%94%A8%E7%B5%82%E7%AB%AF%E6%A9%9F%E4%B8%8A%E5%82%B3%E6%AA%94%E6%A1%88%E5%88%B0github-cfa55e1903fa)<br>
+
+---
+
+## 指令
+<br>
+<br>
+
+*This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
+
